@@ -1,7 +1,7 @@
 <!DOCTYPE RCC><RCC version="1.0">
-	<qresource>
-		<file>stylesheet.qss</file>
-		<file>config.json</file>
+<qresource>
+    <file>stylesheet.qss</file>
+    <file>config.json</file>
 
     <file>../icons/dark/checkbox_checked.svg</file>
     <file>../icons/dark/checkbox_unchecked.svg</file>
